@@ -17,7 +17,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-  Table of Contents
+  Table of Contents 🗓
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -40,7 +40,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 🚀
 
 <img src="images/home.png">
 
@@ -68,15 +68,12 @@ There are a myriad of possible approaches that can be taken to tackle this probl
 * PIL 
 * TensorFlow
 
-
-<p> <a href= "# https://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download"> Download this file to run the facial extractor </a> </p>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 
 
 <ul>
   <li> First run the itercrop on the extracted frames of the video. </li>
@@ -95,9 +92,10 @@ The forementioned libraries should be installed in order for the code to run pro
   ```sh
   npm install library_name_here -g
   ```
+<p> 👉<a href= "https://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download"> Download this file to run the facial extractor </a> </p>
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap 
 
 - [x] Indentify possible datasets
     - [x] Balance the data 
