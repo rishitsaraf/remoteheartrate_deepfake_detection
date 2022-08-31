@@ -10,7 +10,7 @@
   <p align="center">
     A project as a part of the Data Mining and Cybersecurity for Business Intelligence Summer Programme at the BGU International
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!--<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
 </div>
 
 
