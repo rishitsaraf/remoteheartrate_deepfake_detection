@@ -68,6 +68,9 @@ There are a myriad of possible approaches that can be taken to tackle this probl
 * PIL 
 * TensorFlow
 
+
+<p> <a href= "# https://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download"> Download this file to run the facial extractor </a> </p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
