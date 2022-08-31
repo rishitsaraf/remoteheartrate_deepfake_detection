@@ -118,7 +118,7 @@ The forementioned libraries should be installed in order for the code to run pro
 ## Contact
 
 Rishit Saraf - [@rishitsaraf](https://twitter.com/rishitsaraf) - rishit@bgu.ac.il <br>
-Devansh Pratap Singh - devansh@bgu.ac.il
+Devansh Pratap Singh - devansh@bgu.ac.il - devanshpratap25@gmail.com
 
 Project Link: [https://github.com/rishitsaraf/remoteheartrate_deepfake_detection](https://github.com/rishitsaraf/remoteheartrate_deepfake_detection)
 
