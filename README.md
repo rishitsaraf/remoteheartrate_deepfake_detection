@@ -44,6 +44,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src = "image/home.png">
 
 This project focuses on developing a video content authenticity detection system.
 
